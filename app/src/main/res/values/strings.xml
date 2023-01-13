@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppMeuDiario</string>
+    <string name="meu_diario">Meu Diário</string>
+    <string name="_20_dec">20 DEC</string>
+    <string name="hahahhaha">HAHAHHAHA</string>
+    <string name="_23_dec">23 DEC</string>
+    <string name="vamoooooo">VAMOOOOOO</string>
+    <string name="title_activity_diary_page">diary_page</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+</resources>
